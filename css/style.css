@@ -29,3 +29,20 @@ body {
   font-weight: 700;
   margin: 0;
 }
+
+.card {
+  border: none;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  background: #ffffff;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  color: #1779ba;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+}
