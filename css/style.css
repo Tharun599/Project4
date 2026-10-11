@@ -16,3 +16,16 @@ body {
 .top-bar a {
   color: #ffffff;
 }
+
+.hero-section {
+  background: linear-gradient(135deg, #1779ba, #0f4c81);
+  color: #ffffff;
+  padding: 3rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.hero-section h1 {
+  color: #ffffff;
+  font-weight: 700;
+  margin: 0;
+}
