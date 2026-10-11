@@ -46,3 +46,14 @@ h2 {
   border-bottom: 2px solid #e2e8f0;
   padding-bottom: 0.5rem;
 }
+
+ul {
+  margin-left: 1.5rem;
+}
+
+footer {
+  background-color: #e6e6e6;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  color: #4a4a4a;
+}
